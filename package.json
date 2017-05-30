@@ -1,26 +1,26 @@
 {
-  "name": "jsonresume-theme-elegant",
-  "version": "1.10.2",
-  "description": "Elegant theme for jsonresume",
+  "name": "jsonresume-theme-heikkihakala",
+  "version": "1.0.0",
+  "description": "heikkihakala.fi theme for jsonresume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant.git"
+    "url": "http://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala.git"
   },
   "keywords": [
     "jsonresume",
     "theme",
-    "elegant"
+    "heikkihakala"
   ],
-  "author": "Mudassir Ali <mudassir.dev@gmail.com>",
+  "author": "Heikki Hakala <heikki@heikkihakala.fi>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant/issues"
+    "url": "https://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala/issues"
   },
-  "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
+  "homepage": "https://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala",
   "dependencies": {
     "gravatar": "^1.0.6",
     "handlebars": "^2.0.0-alpha.4",
