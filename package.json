@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala.git"
+    "url": "https://github.com/hhakala/jsonresume-theme-heikkihakala.git"
   },
   "keywords": [
     "jsonresume",
@@ -17,10 +17,6 @@
   ],
   "author": "Heikki Hakala <heikki@heikkihakala.fi>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala/issues"
-  },
-  "homepage": "https://code.heikkihakala.fi/heikki/jsonresume-theme-heikkihakala",
   "dependencies": {
     "gravatar": "^1.0.6",
     "handlebars": ">=4.0.14",
