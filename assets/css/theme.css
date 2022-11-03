@@ -913,14 +913,6 @@ body {
   text-decoration: none;
   color: #2291c3;
 }
-.link-strava {
-  color: #454545;
-}
-.link-strava:hover,
-.link-strava:focus {
-  text-decoration: none;
-  color: #2b2b2b;
-}
 .card-skills {
   position: relative;
 }
